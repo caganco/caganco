@@ -22,7 +22,7 @@ electronics fundamentals - where software meets physical and mathematical constr
   (Newey-West HAC, Deflated Sharpe, CSCV/PBO), all enforced by a multi tier CI.
 - **ballast-bist** - systematic portfolio toolkit; transaction-cost modeling and volatility
   estimation, tested and CI gated.
-- **bist-flow-intel** - asynchronous ETL pipeline that normalizes public regulatory
+- **trailingedge** - asynchronous ETL pipeline that normalizes public regulatory
   disclosures into a PostgreSQL schema.
 
 Across these the domain varies, but the throughline is the same: measurement you can trust,
